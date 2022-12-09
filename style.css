@@ -2,3 +2,14 @@ body{
     background-color: blue;
     color: #333;
 }
+
+.rody {
+    padding: 32px;
+    display: block;
+    background-color: #111;
+    color: #fff;
+}
+.rody:hover{
+    background-color: #123;
+    color:            #d2ae89;
+}
