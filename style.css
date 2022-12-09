@@ -13,3 +13,12 @@ body{
     background-color: #123;
     color:            #d2ae89;
 }
+
+p.marijn{
+    color: aqua !important;
+    font-family: Arial !important;
+    font-size: 16px !important;
+}
+.marijn{
+    background-color: aliceblue;
+}
