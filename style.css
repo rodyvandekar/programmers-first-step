@@ -3,6 +3,18 @@ body{
     color: #333;
 }
 
+.rody {
+    padding: 32px;
+    display: block;
+    background-color: #111;
+    color: #fff;
+    border: 1px solid red;
+}
+.rody:hover{
+    background-color: #123;
+    color:            #d2ae89;
+}
+
 p.marijn{
     color: aqua !important;
     font-family: Arial !important;
