@@ -8,6 +8,7 @@ body{
     display: block;
     background-color: #111;
     color: #fff;
+    border: 1px solid red;
 }
 .rody:hover{
     background-color: #123;
